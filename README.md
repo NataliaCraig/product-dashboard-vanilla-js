@@ -13,3 +13,13 @@ This project is a dynamic, client-side **Product Management Dashboard** built to
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/NataliaCraig/product-dashboard-vanilla-js.git](https://github.com/NataliaCraig/product-dashboard-vanilla-js.git)
+
+Building this dashboard was a pivotal point in my understanding of Business Application Development. Key takeaways include:
+
+DOM Manipulation: Mastered how to dynamically create and inject HTML elements based on JavaScript objects.
+
+State Management: Learned how to keep the User Interface in sync with the data array without relying on external frameworks.
+
+Clean Code Practices: Refactored functions to be more modular, improving the maintainability and readability of the codebase.
+
+User Experience (UX): Focused on creating intuitive feedback loops (like form validation) to ensure a professional user flow.
